@@ -1,1 +1,3 @@
-This is new file
+File 1 to trst Pull/ Push and also to check adding source
+
+git remote add Branchname <URL/SSH>
