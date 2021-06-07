@@ -1,0 +1,3 @@
+This is used to test Pull
+
+git branch --set-upstream-to Origin<Name>/main(Branchname)
