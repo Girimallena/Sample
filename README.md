@@ -1,3 +1,1 @@
-# Sample
-
-This is a sample demo used to understand GIT
+This is fungit pull Pishinfg to remote from local
