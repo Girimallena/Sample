@@ -1,0 +1,24 @@
+<html>
+
+<body>
+<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>  
+<script>
+  
+var main = function () {
+ "use strict";
+ // getJSON even parses the JSON for us, so we don't need to
+ // call JSON.parse
+ $.getJSON("cards.json", function (card) {
+ // print the card to the console
+ console.log(card);
+ });
+};
+$(document).ready(main);
+
+
+</script>
+
+
+</body>
+
+</html>
